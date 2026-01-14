@@ -37,12 +37,4 @@ Dự án áp dụng kiến trúc **3-Tier Architecture** hiện đại và chu�
 * **Admin Dashboard:** Trang quản trị để thêm/sửa/xóa dự án và quản lý resources (ảnh, tài liệu).
 
 ---
-
-## 🚀 Cài đặt & Chạy dự án (Getting Started)
-
-Để chạy dự án này trên máy local, bạn cần cài đặt **Node.js**, **PostgreSQL** và **Git**.
-
-### 1. Clone dự án
-```bash
-git clone [https://github.com/username/portfolio-web.git](https://github.com/username/portfolio-web.git)
-cd portfolio-web
+=
